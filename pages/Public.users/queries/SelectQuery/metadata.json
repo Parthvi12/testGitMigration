@@ -42,7 +42,7 @@
     "policies": [],
     "userPermissions": []
   },
+  "gitSyncId": "642ba359d6d8807c599f7b16_642ba49d7cb9e27dc6be3f8f",
   "id": "Public.users_SelectQuery",
-  "deleted": false,
-  "gitSyncId": "642ba359d6d8807c599f7b16_642ba49d7cb9e27dc6be3f8f"
+  "deleted": false
 }

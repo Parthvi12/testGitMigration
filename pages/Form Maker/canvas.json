@@ -2533,15 +2533,13 @@
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Form Maker",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+        "deleted": false
       }
     ],
     "userPermissions": [],
     "policies": [],
     "isHidden": false
   },
-  "deleted": false,
-  "gitSyncId": "642ba359d6d8807c599f7b16_642ba3a67cb9e27dc6be3f73"
+  "gitSyncId": "642ba359d6d8807c599f7b16_642ba3a67cb9e27dc6be3f73",
+  "deleted": false
 }
