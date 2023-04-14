@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 77,
+          "version": 78,
           "minHeight": 900,
           "parentColumnSpace": 1,
           "dynamicTriggerPathList": [],
@@ -1954,11 +1954,11 @@
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
-                "data_table.sortOrder.column || 'id'",
-                "data_table.sortOrder.order || 'ASC'",
+                "(data_table.pageNo - 1) * data_table.pageSize",
                 "data_table.pageSize",
                 "data_table.searchText || \"\"",
-                "(data_table.pageNo - 1) * data_table.pageSize"
+                "data_table.sortOrder.column || 'id'",
+                "data_table.sortOrder.order || 'ASC'"
               ],
               "timeoutInMillisecond": 10000
             }

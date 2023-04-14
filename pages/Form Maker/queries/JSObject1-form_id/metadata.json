@@ -24,13 +24,6 @@
       "jsArguments": [
         {
           "name": "len"
-        },
-        {
-          "name": "",
-          "value": ""
-        },
-        {
-          "name": "12"
         }
       ],
       "isAsync": false
