@@ -1967,14 +1967,12 @@
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Public.users",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+        "deleted": false
       }
     ],
     "userPermissions": [],
     "policies": []
   },
-  "deleted": false,
-  "gitSyncId": "642ba359d6d8807c599f7b16_642ba49d7cb9e27dc6be3f8d"
+  "gitSyncId": "642ba359d6d8807c599f7b16_642ba49d7cb9e27dc6be3f8d",
+  "deleted": false
 }
