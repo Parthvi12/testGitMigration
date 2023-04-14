@@ -849,12 +849,14 @@
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page2",
-        "deleted": false
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
       }
     ],
     "userPermissions": [],
     "policies": []
   },
-  "gitSyncId": "642ba359d6d8807c599f7b16_642ba4ae7cb9e27dc6be3f98",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "642ba359d6d8807c599f7b16_642ba4ae7cb9e27dc6be3f98"
 }

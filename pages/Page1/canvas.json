@@ -31,12 +31,14 @@
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page1",
-        "deleted": false
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
       }
     ],
     "userPermissions": [],
     "policies": []
   },
-  "gitSyncId": "642ba359d6d8807c599f7b16_642ba359d6d8807c599f7b18",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "642ba359d6d8807c599f7b16_642ba359d6d8807c599f7b18"
 }

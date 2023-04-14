@@ -44,7 +44,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "gitSyncId": "642ba359d6d8807c599f7b16_2023-04-04T04:12:22.185898519Z",
   "id": "Responses_selectQuery",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "642ba359d6d8807c599f7b16_2023-04-04T04:12:22.185898519Z"
 }
