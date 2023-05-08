@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 77,
+          "version": 78,
           "minHeight": 590,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
@@ -420,9 +420,11 @@
               "isLoading": false,
               "responsiveBehavior": "fill",
               "yAxisName": "Revenue($)",
+              "originalTopRow": 59,
               "chartName": "Sales Report",
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "xAxisName": "Product Line",
+              "originalBottomRow": 91,
               "chartType": "COLUMN_CHART"
             },
             {
@@ -603,9 +605,9 @@
               "parentId": "0",
               "renderMode": "CANVAS",
               "isLoading": false,
-              "originalTopRow": 120,
+              "originalTopRow": 117,
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 124,
+              "originalBottomRow": 121,
               "minDynamicHeight": 4
             },
             {
