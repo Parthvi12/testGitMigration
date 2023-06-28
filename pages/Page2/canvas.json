@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 77,
+          "version": 80,
           "minHeight": 590,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
@@ -698,7 +698,11 @@
                 "status",
                 "action"
               ],
-              "dynamicPropertyPathList": [],
+              "dynamicPropertyPathList": [
+                {
+                  "key": "tableData"
+                }
+              ],
               "displayName": "Table",
               "bottomRow": 138,
               "columnWidthMap": {
