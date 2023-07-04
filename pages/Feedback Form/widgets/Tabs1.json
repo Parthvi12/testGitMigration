@@ -1,0 +1,55 @@
+{
+    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "widgetName": "Tabs1",
+    "isCanvas": true,
+    "displayName": "Tabs",
+    "iconSVG": "/static/media/icon.74a6d653.svg",
+    "topRow": 0,
+    "bottomRow": 82,
+    "parentRowSpace": 10,
+    "type": "TABS_WIDGET",
+    "hideCard": false,
+    "shouldScrollContents": false,
+    "animateLoading": true,
+    "parentColumnSpace": 17.9375,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 5,
+    "dynamicBindingPathList": [
+        {"key": "accentColor"},
+        {"key": "borderRadius"},
+        {"key": "boxShadow"},
+        {"key": "defaultTab"}
+    ],
+    "key": "oroa5bmmrq",
+    "isDeprecated": false,
+    "rightColumn": 59,
+    "dynamicHeight": "FIXED",
+    "widgetId": "y1nkj2ec4x",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "defaultTab": "{{appsmith.URL.queryParams.form_id?\"Form\" : \"NoForm\"}}",
+    "shouldShowTabs": false,
+    "tabsObj": {
+        "tab1": {
+            "widgetId": "8ee2vo84py",
+            "index": 0,
+            "label": "Form",
+            "id": "tab1",
+            "isVisible": true
+        },
+        "tab2": {
+            "widgetId": "3gqqsk7bxo",
+            "index": 1,
+            "label": "NoForm",
+            "id": "tab2",
+            "isVisible": true
+        }
+    },
+    "isVisible": true,
+    "version": 3,
+    "parentId": "0",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "maxDynamicHeight": 9000,
+    "minDynamicHeight": 4
+}
