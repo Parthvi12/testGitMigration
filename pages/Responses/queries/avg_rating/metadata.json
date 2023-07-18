@@ -37,7 +37,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-18T04:19:50Z"
   },
   "id": "Responses_avg_rating",
   "deleted": false,
