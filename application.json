@@ -1,6 +1,18 @@
 {
   "pages": [
     {
+      "id": "Schedule",
+      "isDefault": false
+    },
+    {
+      "id": "New vehicle",
+      "isDefault": false
+    },
+    {
+      "id": "Home page",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     },
@@ -41,19 +53,15 @@
       "showSignIn": true
     }
   },
-  "color": "#F1DEFF",
-  "icon": "arrow-up",
+  "color": "#C7F3E3",
+  "icon": "calender",
   "unpublishedAppLayout": {
     "type": "DESKTOP"
   },
   "publishedAppLayout": {
     "type": "DESKTOP"
   },
-  "unpublishedCustomJSLibs": [
-    {
-      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
-    }
-  ],
+  "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,

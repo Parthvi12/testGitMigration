@@ -1,26 +1,26 @@
 {
   "unpublishedPage": {
-    "name": "Feedback Form",
-    "slug": "feedback-form",
+    "name": "Home page",
+    "slug": "home-page",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1224,
+          "rightColumn": 1160,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1280,
+          "bottomRow": 1290,
           "containerStyle": "none",
-          "snapRows": 66,
+          "snapRows": 125,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 77,
-          "minHeight": 670,
+          "version": 60,
+          "minHeight": 1292,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
@@ -28,20 +28,19 @@
         "layoutOnLoadActions": [
           [
             {
-              "name": "fetch_form_fields",
+              "id": "Home page_select_cars",
+              "name": "select_cars",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
-                "appsmith.URL.queryParams.form_id",
-                "appsmith.URL.queryParams.email_id"
+                "(List.pageNo - 1) * 5"
               ],
               "timeoutInMillisecond": 10000
             }
           ]
         ],
-        "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Feedback Form",
+        "id": "Home page",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -52,5 +51,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "642ba359d6d8807c599f7b16_642ba3a67cb9e27dc6be3f71"
+  "gitSyncId": "642ba359d6d8807c599f7b16_64be7a45d0867a137d86b2ea"
 }

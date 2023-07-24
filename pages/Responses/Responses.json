@@ -28,7 +28,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Responses_form_filter",
               "name": "form_filter",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -40,7 +39,6 @@
           ],
           [
             {
-              "id": "Responses_avg_rating",
               "name": "avg_rating",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -50,7 +48,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Responses_feedback_count",
               "name": "feedback_count",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -62,7 +59,6 @@
           ],
           [
             {
-              "id": "Responses_selectQuery",
               "name": "selectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
