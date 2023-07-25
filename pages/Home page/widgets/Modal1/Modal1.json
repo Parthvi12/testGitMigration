@@ -49,6 +49,7 @@
     "labelTextSize": "0.875rem",
     "rightColumn": 0,
     "detachFromLayout": true,
+    "dynamicHeight": "FIXED",
     "widgetId": "7fqhlrhpyi",
     "canOutsideClickClose": true,
     "canEscapeKeyClose": true,
@@ -58,5 +59,7 @@
     "isLoading": false,
     "onClose": "{{closeModal('Modal1')}}",
     "borderRadius": "0px",
-    "width": 456
+    "maxDynamicHeight": 9000,
+    "width": 456,
+    "minDynamicHeight": 4
 }

@@ -23,6 +23,7 @@
     "isRequired": false,
     "defaultDate": "",
     "rightColumn": 60,
+    "dynamicHeight": "FIXED",
     "widgetId": "ukvztfy4lf",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "isVisible": true,
@@ -34,7 +35,9 @@
     "isLoading": false,
     "timePrecision": "None",
     "borderRadius": "0.375rem",
+    "maxDynamicHeight": 9000,
     "firstDayOfWeek": 0,
     "closeOnSelection": true,
-    "maxDate": "2121-12-31T18:29:00.000Z"
+    "maxDate": "2121-12-31T18:29:00.000Z",
+    "minDynamicHeight": 4
 }

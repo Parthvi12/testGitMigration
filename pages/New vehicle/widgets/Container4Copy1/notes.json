@@ -16,13 +16,14 @@
     "leftColumn": 18,
     "dynamicBindingPathList": [{"key": "accentColor"}],
     "labelStyle": "BOLD",
-    "inputType": "TEXT",
+    "inputType": "MULTI_LINE_TEXT",
     "placeholderText": "Type notes/remarks here",
     "isDisabled": false,
     "key": "g260mz2caw",
     "labelTextSize": "0.875rem",
     "isRequired": false,
     "rightColumn": 60,
+    "dynamicHeight": "FIXED",
     "widgetId": "8cc8rog433",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "isVisible": true,
@@ -32,6 +33,8 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "borderRadius": "0px",
+    "maxDynamicHeight": 9000,
     "iconAlign": "left",
-    "defaultText": ""
+    "defaultText": "",
+    "minDynamicHeight": 4
 }

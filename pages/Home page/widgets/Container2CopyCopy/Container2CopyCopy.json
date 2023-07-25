@@ -51,6 +51,7 @@
     "labelTextSize": "0.875rem",
     "backgroundColor": "#FFFFFF",
     "rightColumn": 54,
+    "dynamicHeight": "FIXED",
     "widgetId": "7if4vam0z1",
     "containerStyle": "card",
     "isVisible": "{{List.selectedItem.vin.length > 0}}",
@@ -58,5 +59,7 @@
     "parentId": "0",
     "renderMode": "CANVAS",
     "isLoading": false,
-    "borderRadius": "15px"
+    "borderRadius": "15px",
+    "maxDynamicHeight": 9000,
+    "minDynamicHeight": 4
 }

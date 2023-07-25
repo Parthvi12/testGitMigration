@@ -21,13 +21,14 @@
     ],
     "labelPosition": "Left",
     "labelStyle": "",
-    "inputType": "TEXT",
+    "inputType": "MULTI_LINE_TEXT",
     "isDisabled": false,
     "key": "7mdscaib9p",
     "labelTextSize": "0.875rem",
     "isRequired": false,
     "isDeprecated": false,
     "rightColumn": 63,
+    "dynamicHeight": "FIXED",
     "widgetId": "yg4tyuwb5b",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "isVisible": true,
@@ -38,6 +39,8 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "maxDynamicHeight": 9000,
     "iconAlign": "left",
-    "defaultText": ""
+    "defaultText": "",
+    "minDynamicHeight": 4
 }

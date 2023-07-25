@@ -47,6 +47,7 @@
     "labelTextSize": "0.875rem",
     "backgroundColor": "#FFFFFF",
     "rightColumn": 54,
+    "dynamicHeight": "FIXED",
     "widgetId": "oggvuhflpt",
     "containerStyle": "card",
     "isVisible": true,
@@ -54,5 +55,7 @@
     "parentId": "0",
     "renderMode": "CANVAS",
     "isLoading": false,
-    "borderRadius": "15px"
+    "borderRadius": "15px",
+    "maxDynamicHeight": 9000,
+    "minDynamicHeight": 4
 }

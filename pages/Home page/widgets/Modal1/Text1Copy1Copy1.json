@@ -26,6 +26,7 @@
     "labelTextSize": "0.875rem",
     "rightColumn": 61,
     "textAlign": "LEFT",
+    "dynamicHeight": "FIXED",
     "widgetId": "kpv148k7ia",
     "logBlackList": {
         "widgetName": true,
@@ -66,5 +67,7 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "borderRadius": "0px",
-    "fontSize": "0.875rem"
+    "maxDynamicHeight": 9000,
+    "fontSize": "0.875rem",
+    "minDynamicHeight": 4
 }

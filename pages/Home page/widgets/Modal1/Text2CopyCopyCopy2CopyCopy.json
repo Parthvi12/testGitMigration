@@ -20,6 +20,7 @@
     "labelTextSize": "0.875rem",
     "rightColumn": 32,
     "textAlign": "LEFT",
+    "dynamicHeight": "FIXED",
     "widgetId": "y02vtsu9g5",
     "logBlackList": {
         "widgetName": true,
@@ -63,6 +64,8 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "borderRadius": "0px",
+    "maxDynamicHeight": 9000,
     "fontSize": "1.125rem",
-    "textStyle": "HEADING"
+    "textStyle": "HEADING",
+    "minDynamicHeight": 4
 }
