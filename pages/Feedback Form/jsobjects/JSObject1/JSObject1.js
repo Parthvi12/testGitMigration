@@ -6,6 +6,6 @@ export default {
 		return(Switch1.isSwitchedOn)
 	},
 	myFun2: async () => {
-		//use async-await or promises
+		//use async-await or promises method
 	}
 }
