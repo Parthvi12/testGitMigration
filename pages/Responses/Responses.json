@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 78,
+          "version": 87,
           "minHeight": 670,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
@@ -28,37 +28,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "name": "form_filter",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "appsmith.URL.queryParams.email_id"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "name": "avg_rating",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "appsmith.URL.queryParams.email_id"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "name": "feedback_count",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "appsmith.URL.queryParams.email_id"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
+              "id": "Responses_selectQuery",
               "name": "selectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

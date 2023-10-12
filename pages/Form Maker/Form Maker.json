@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 78,
+          "version": 87,
           "minHeight": 1292,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
@@ -28,6 +28,7 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Form Maker_form_fields_select",
               "name": "form_fields_select",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

@@ -66,7 +66,7 @@
         "status",
         "action"
     ],
-    "dynamicPropertyPathList": [],
+    "dynamicPropertyPathList": [{"key": "tableData"}],
     "displayName": "Table",
     "bottomRow": 138,
     "columnWidthMap": {
@@ -179,6 +179,7 @@
     "rightColumn": 32,
     "textSize": "0.875rem",
     "widgetId": "y3ug1ltmp2",
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": [
         {
