@@ -37,8 +37,7 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2023-04-04T04:12:22Z"
+    "userPermissions": []
   },
   "id": "Responses_feedback_count",
   "deleted": false,
